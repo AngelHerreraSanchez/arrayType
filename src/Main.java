@@ -14,7 +14,7 @@ public class Main {
 
 
             System.out.print("");
-            for(int size : T) {
+            for (int size : T) {
                 System.out.print(size + " ");
             }
 
