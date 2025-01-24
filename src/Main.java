@@ -12,7 +12,6 @@ public class Main {
 
             Arrays.sort(T);
 
-
             System.out.print("");
             for (int size : T) {
                 System.out.print(size + " ");
