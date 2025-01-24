@@ -7,7 +7,7 @@ public class Main {
             @SuppressWarnings("unchecked")
             public ResizableArray() {
                 array = (T[]) new Object[10];
-                size = 0;
+                size = 1;
             }
 
             Arrays.sort(T);
